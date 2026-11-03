@@ -1,0 +1,24 @@
+{
+  "name": "Fukuoka Shopping - 후쿠오카 쇼핑리스트",
+  "short_name": "Fukuoka Shop",
+  "description": "후쿠오카 여행 쇼핑리스트 앱",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f1eb",
+  "theme_color": "#1f2a44",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
